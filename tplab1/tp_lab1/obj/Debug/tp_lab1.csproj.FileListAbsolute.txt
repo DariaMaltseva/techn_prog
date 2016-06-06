@@ -1,0 +1,15 @@
+D:\Даша\учеба\Технологии программирования\tplab1\bdlab5form\bin\Debug\tp_lab1.exe.config
+D:\Даша\учеба\Технологии программирования\tplab1\bdlab5form\bin\Debug\tp_lab1.exe
+D:\Даша\учеба\Технологии программирования\tplab1\bdlab5form\bin\Debug\tp_lab1.pdb
+D:\Даша\учеба\Технологии программирования\tplab1\bdlab5form\bin\Debug\MySql.Data.dll
+D:\Даша\учеба\Технологии программирования\tplab1\bdlab5form\obj\Debug\tp_lab1.csprojResolveAssemblyReference.cache
+D:\Даша\учеба\Технологии программирования\tplab1\bdlab5form\obj\Debug\tp_lab1.Properties.Resources.resources
+D:\Даша\учеба\Технологии программирования\tplab1\bdlab5form\obj\Debug\tp_lab1.UserLogin.resources
+D:\Даша\учеба\Технологии программирования\tplab1\bdlab5form\obj\Debug\tp_lab1.csproj.GenerateResource.Cache
+D:\Даша\учеба\Технологии программирования\tplab1\bdlab5form\obj\Debug\tp_lab1.exe
+D:\Даша\учеба\Технологии программирования\tplab1\bdlab5form\obj\Debug\tp_lab1.pdb
+D:\Даша\учеба\Технологии программирования\tplab1\bdlab5form\obj\Debug\tp_lab1.AddPr.resources
+D:\Даша\учеба\Технологии программирования\tplab1\bdlab5form\obj\Debug\tp_lab1.AddT.resources
+D:\Даша\учеба\Технологии программирования\tplab1\bdlab5form\obj\Debug\tp_lab1.UpdatePr.resources
+D:\Даша\учеба\Технологии программирования\tplab1\bdlab5form\obj\Debug\tp_lab1.UpdateT.resources
+D:\Даша\учеба\Технологии программирования\tplab1\bdlab5form\obj\Debug\tp_lab1.MainForm.resources
